@@ -1,0 +1,8 @@
+{
+  "FORM_ID": "YOUR_FORM_ID",
+  "RESPONSE_SHEET_ID": "YOUR_SHEET_ID",
+  "TEMPLATE_DOC_ID": "YOUR_DOC_TEMPLATE_ID",
+  "FOLDER_ID": "YOUR_DRIVE_FOLDER_ID",
+  "CEO_EMAIL": "ceo@example.com",
+  "DEPLOYMENT_URL": "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec"
+}
